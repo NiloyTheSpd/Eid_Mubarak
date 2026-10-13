@@ -19,6 +19,6 @@ A fun Python terminal script that simulates an Arch Linux-style package install 
 
 ```bash
 python3 eid_arch.py
-curl -fsSL https://raw.githubusercontent.com/NiloyTheSpd/Eid_Mubarak/main/eid_arch.py | python3
+python3 -c "import urllib.request; exec(compile(urllib.request.urlopen('https://raw.githubusercontent.com/NiloyTheSpd/Eid_Mubarak/main/eid_arch.py').read(), 'eid_arch.py', 'exec'))"
 ```
 
