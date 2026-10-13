@@ -19,19 +19,6 @@ A fun Python terminal script that simulates an Arch Linux-style package install 
 
 ```bash
 python3 eid_arch.py
+curl -fsSL https://raw.githubusercontent.com/NiloyTheSpd/Eid_Mubarak/main/eid_arch.py | python3
 ```
 
-## Project Links
-
-- Repository: [NiloyTheSpd/Eid_Mubarak](https://github.com/NiloyTheSpd/Eid_Mubarak)
-- README (GitHub view): [Open README](https://github.com/NiloyTheSpd/Eid_Mubarak/blob/main/README.md)
-
-## How to show the README link
-
-Use this Markdown format:
-
-```md
-[Open README](https://github.com/NiloyTheSpd/Eid_Mubarak/blob/main/README.md)
-```
-
-When rendered on GitHub, it appears as a clickable link.
